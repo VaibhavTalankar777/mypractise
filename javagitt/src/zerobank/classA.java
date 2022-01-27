@@ -6,6 +6,7 @@ public class classA {
 		// TODO Auto-generated method stub
 
 		//hi this is 1st comment in this class
+		//hi this is 2 nd comment added by vaibhav Talankar
 	}
 
 }
